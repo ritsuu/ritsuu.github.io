@@ -5,9 +5,9 @@
   <subtitle>Time tries all</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/ritsuu/"/>
-  <updated>2017-12-28T17:17:32.411Z</updated>
-  <id>https://github.com/ritsuu/</id>
+  <link href="http://ritsu.top/"/>
+  <updated>2020-06-12T15:10:55.145Z</updated>
+  <id>http://ritsu.top/</id>
   
   <author>
     <name>ritsu huang</name>
@@ -17,9 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2019年濑户内海艺术祭</title>
+    <link href="http://ritsu.top/2020/06/12/ARTSETOUCHI/"/>
+    <id>http://ritsu.top/2020/06/12/ARTSETOUCHI/</id>
+    <published>2020-06-12T14:13:52.000Z</published>
+    <updated>2020-06-12T15:10:55.145Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;img src=&quot;/2020/06/12/ARTSETOUCHI/R0000569.jpeg&quot; width=&quot;533&quot; height=&quot;400&quot; alt=&quot;2019-10-05&quot; title=&quot;濑户内海艺术祭&quot;&gt;
+&lt;br&gt;
+&lt;img
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>总结使用ESlint及其插件遇到的坑</title>
-    <link href="https://github.com/ritsuu/2017/12/29/title-%20%E6%80%BB%E7%BB%93%E4%BD%BF%E7%94%A8ESlint%E5%8F%8A%E5%85%B6%E6%8F%92%E4%BB%B6%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91/"/>
-    <id>https://github.com/ritsuu/2017/12/29/title-%20%E6%80%BB%E7%BB%93%E4%BD%BF%E7%94%A8ESlint%E5%8F%8A%E5%85%B6%E6%8F%92%E4%BB%B6%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91/</id>
+    <link href="http://ritsu.top/2017/12/29/title-%20%E6%80%BB%E7%BB%93%E4%BD%BF%E7%94%A8ESlint%E5%8F%8A%E5%85%B6%E6%8F%92%E4%BB%B6%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91/"/>
+    <id>http://ritsu.top/2017/12/29/title-%20%E6%80%BB%E7%BB%93%E4%BD%BF%E7%94%A8ESlint%E5%8F%8A%E5%85%B6%E6%8F%92%E4%BB%B6%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91/</id>
     <published>2017-12-28T17:17:32.411Z</published>
     <updated>2017-12-28T17:17:32.411Z</updated>
     
@@ -41,8 +66,8 @@
   
   <entry>
     <title>关于数组去重的多种方法</title>
-    <link href="https://github.com/ritsuu/2017/12/06/title-%20%E5%85%B3%E4%BA%8E%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E6%B3%95/"/>
-    <id>https://github.com/ritsuu/2017/12/06/title-%20%E5%85%B3%E4%BA%8E%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E6%B3%95/</id>
+    <link href="http://ritsu.top/2017/12/06/title-%20%E5%85%B3%E4%BA%8E%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E6%B3%95/"/>
+    <id>http://ritsu.top/2017/12/06/title-%20%E5%85%B3%E4%BA%8E%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E6%B3%95/</id>
     <published>2017-12-06T14:20:02.899Z</published>
     <updated>2017-12-06T14:20:02.899Z</updated>
     
@@ -64,8 +89,8 @@
   
   <entry>
     <title>数组乱序之洗牌算法</title>
-    <link href="https://github.com/ritsuu/2017/11/20/%E6%95%B0%E7%BB%84%E4%B9%B1%E5%BA%8F%E4%B9%8B%E6%B4%97%E7%89%8C%E7%AE%97%E6%B3%95/"/>
-    <id>https://github.com/ritsuu/2017/11/20/%E6%95%B0%E7%BB%84%E4%B9%B1%E5%BA%8F%E4%B9%8B%E6%B4%97%E7%89%8C%E7%AE%97%E6%B3%95/</id>
+    <link href="http://ritsu.top/2017/11/20/%E6%95%B0%E7%BB%84%E4%B9%B1%E5%BA%8F%E4%B9%8B%E6%B4%97%E7%89%8C%E7%AE%97%E6%B3%95/"/>
+    <id>http://ritsu.top/2017/11/20/%E6%95%B0%E7%BB%84%E4%B9%B1%E5%BA%8F%E4%B9%8B%E6%B4%97%E7%89%8C%E7%AE%97%E6%B3%95/</id>
     <published>2017-11-20T10:10:48.000Z</published>
     <updated>2017-11-20T14:58:04.908Z</updated>
     
@@ -88,8 +113,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/ritsuu/2017/11/18/Hello%20World/"/>
-    <id>https://github.com/ritsuu/2017/11/18/Hello%20World/</id>
+    <link href="http://ritsu.top/2017/11/18/Hello%20World/"/>
+    <id>http://ritsu.top/2017/11/18/Hello%20World/</id>
     <published>2017-11-17T16:25:07.415Z</published>
     <updated>2017-11-17T16:25:07.415Z</updated>
     
